@@ -175,6 +175,9 @@ malware PsychosisDepressionMalware {
     induce_low_energy("ProcessingLayer")
 }
 ```
+##### Potential Impact:
+- Altered data causing incorrect decisions based on false reality.
+- System inactivity leading to resource wastage and failure to respond to actual stimuli.
 ---
 
 
