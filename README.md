@@ -2,6 +2,8 @@
 
 ![Converge Logo](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/446810553_465330955903871_5169344379290393766_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hHzPPQBeMxIQ7kNvgEowdu_&_nc_ht=scontent-sjc3-1.xx&oh=00_AYDvhl-A2_CmNS7ir2_3hF4rgdvK_s4s1jlD25WvQvDwHQ&oe=6661A5F7)
 
+## [![View the Presentation](https://www.beautiful.ai/assets/images/logo/logo-social.png)](https://www.beautiful.ai/player/-NzLQMdwOURGGmM_XAev)
+
 ## Overview
 
 **Converge** is a high-level, declarative programming language designed specifically for developing and implementing neuromorphic computing systems. It abstracts away the complexities of the underlying hardware, allowing developers to focus on creating efficient and effective neuromorphic applications.
