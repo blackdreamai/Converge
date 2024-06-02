@@ -100,6 +100,108 @@ Finally, to run the simulation:
 ```
 run for 1 s
 ```
+---
+
+## Exploiting Neuromorphic Systems with Neurological Disorder-Inspired Attacks
+
+### Main Section
+
+Neuromorphic computing, with its inspiration drawn from human neural networks, presents a unique set of challenges and vulnerabilities. One of the most exciting yet challenging avenues of this field is the emulation of disordered neurological phenomena for the purposes of testing, improving, and securing neuromorphic architectures. Below are prime examples of attacks inspired by various neurological disorders, each employing distinct attack vectors like malware, DDoS attacks, false data injection, rollbacks, and packet sniffing.
+
+#### 1. Mimicking Schizophrenia: Chaos & Confusion
+
+##### Attack Strategy:
+- Deploying malware that introduces erratic spike patterns similar to the disordered thinking observed in schizophrenia.
+- Generating DDoS attacks that mimic the overwhelming sensory input associated with hallucinations.
+
+Sample Code in Converge:
+ ```
+malware SchizoMalware {
+    erratic_spike("TargetLayer", "./data/erratic_spike.csv")
+    DDoS("TargetLayer", 1000, "sensory_hallucination")
+}
+```
+##### Potential Impact:
+	•	Systems overwhelmed with disorganized data, leading to false decisions.
+	•	Resource exhaustion due to handling hallucinatory-like DDoS attacks.
+
+
+### 2. Emulating Alzheimer’s: Memory Degradation
+
+##### Attack Strategy:
+- Injecting false data into memory storage components to mimic memory loss.
+- Manipulating saved states and forcing rollbacks to simulate cognitive decline.
+
+Sample Code in Converge:
+```
+malware AlzheimerMalware {
+    inject_false_data("MemoryLayer", "./data/false_data.csv")
+    force_rollback("MemoryLayer", "saved_state_1")
+}
+```
+##### Potential Impact:
+- Information corruption leading to faulty decision-making.
+- Rollbacks causing loss of crucial data and system state, mimicking cognitive decline.
+
+
+### 3. Simulating Bipolar Disorder & Mania: Extreme Oscillations
+
+##### Attack Strategy:
+- Using packet sniffing to intercept data and then injecting extreme values to make the system oscillate between states, resembling bipolar mood swings.
+- Introducing malware that forces the neuromorphic system into cycles of high and low activity, simulating mania and depression.
+
+Sample Code in Converge:
+```
+malware BipolarMalware {
+    sniff_and_inject("DataChannel", "./data/extreme_values.csv")
+    activity_cycle("ProcessingLayer", "high", "low")
+}
+```
+##### Potential Impact:
+- System oscillation causing hardware stress and potential failure.
+- Erratic behavior leading to inconsistent and unreliable outputs.
+
+
+### 4. Replicating Psychosis & Depression: Altered Reality & Inactivity
+
+##### Attack Strategy:
+- Injecting false data streams to alter the system’s perception of reality, akin to psychosis.
+- Introducing low-energy states or inactivity cycles to mimic depressive episodes.
+
+Sample Code in Converge:
+```
+malware PsychosisDepressionMalware {
+    inject_reality("PerceptionLayer", "./data/false_reality.csv")
+    induce_low_energy("ProcessingLayer")
+}
+```
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
