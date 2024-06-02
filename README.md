@@ -12,7 +12,7 @@
 
 1. **Neural Abstraction**: Converge provides an intuitive and straightforward way to define, configure, and interact with spiking neural networks. Developers can express large-scale neuromorphic systems in a high-level, abstract manner, while the language ensures the appropriate low-level translations to leverage the capabilities of neuromorphic hardware.
 
-2. **Neuromorphic Hardware Optimization**: Converge integrates hardware-specific optimizations, enabling seamless and efficient use of various neuromorphic hardware architectures like Intel’s Loihi, IBM’s TrueNorth, or the SpiNNaker platform.
+2. **Neuromorphic Hardware Optimization**: Converge integrates hardware-specific optimizations, enabling seamless and efficient use of various neuromorphic hardware architectures like Intel’s Loihi, which powers their new Hala Point system.
 
 3. **Time-driven Execution**: As spiking neural networks operate in a time-dependent fashion, Converge adopts a time-driven execution model. Developers define the temporal dynamics of the system, and the language handles the intricate scheduling and simulation.
 
