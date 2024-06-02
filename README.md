@@ -122,8 +122,8 @@ malware SchizoMalware {
 }
 ```
 ##### Potential Impact:
-	•	Systems overwhelmed with disorganized data, leading to false decisions.
-	•	Resource exhaustion due to handling hallucinatory-like DDoS attacks.
+- Systems overwhelmed with disorganized data, leading to false decisions.
+- Resource exhaustion due to handling hallucinatory-like DDoS attacks.
 
 
 ### 2. Emulating Alzheimer’s: Memory Degradation
