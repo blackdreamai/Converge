@@ -178,7 +178,26 @@ malware PsychosisDepressionMalware {
 ##### Potential Impact:
 - Altered data causing incorrect decisions based on false reality.
 - System inactivity leading to resource wastage and failure to respond to actual stimuli.
+
 ---
+
+## Future Directions
+
+Converge aims to push the boundaries of neuromorphic computing with future innovations such as:
+
+	•	Enhanced support for other neuromorphic hardware platforms
+	•	Advanced AI and machine learning integrations
+	•	Expanded adversarial attack simulations
+	•	Broader community engagement and collaboration
+
+---
+
+## License
+
+Converge is licensed under the MIT License.
+
+Feel free to contact us or open an issue if you have any questions or suggestions. Together, let’s drive the future of neuromorphic computing!
+
 
 
 
