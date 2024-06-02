@@ -196,7 +196,11 @@ Converge aims to push the boundaries of neuromorphic computing with future innov
 
 Converge is licensed under the MIT License.
 
-Feel free to contact us or open an issue if you have any questions or suggestions. Together, let’s drive the future of neuromorphic computing!
+---
+
+## Contact
+
+Feel free to reach out: eros@blackdream.ai - or open an issue if you have any questions or suggestions. 
 
 
 
